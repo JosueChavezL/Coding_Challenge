@@ -1,0 +1,12 @@
+*{
+    font-family: 'Courier New', Courier, monospace; 
+}
+
+iframe, .card, .btn{
+    border-radius: 30px;
+}
+
+h1,h3{
+    font-weight: bolder;
+}
+
